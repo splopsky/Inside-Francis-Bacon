@@ -16,7 +16,7 @@
 
 <img title="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Somer_Francis_Bacon.jpg/375px-Somer_Francis_Bacon.jpg" alt="" data-align="center">
 
-<p align=center>Francis Bacon, image from wikipedia</p>
+<p>Francis Bacon, image from wikipedia</p>
 
 ## **Set Up & Prerequisites**
 
@@ -133,7 +133,7 @@ Through the output of words, we can **conclude** that Bacon was a true *seeker* 
 
 And from the graph right above(Frequent Words - All Together), we can see that 'Aristotle' is in the list as well. 
 
-As well known, Bacon denied the traditional Aristole's deductive theory ([참고]([프랜시스 베이컨 - 나무위키 (namu.wiki)](https://namu.wiki/w/%ED%94%84%EB%9E%9C%EC%8B%9C%EC%8A%A4%20%EB%B2%A0%EC%9D%B4%EC%BB%A8))) and stated that we can only believe facts that are proven through real observation and experiments. We can see the related set of words from the extracted words.
+As well known, Bacon denied the traditional Aristole's deductive theory ([참고](https://namu.wiki/w/%ED%94%84%EB%9E%9C%EC%8B%9C%EC%8A%A4%20%EB%B2%A0%EC%9D%B4%EC%BB%A8)) and stated that we can only believe facts that are proven through real observation and experiments. We can see the related set of words from the extracted words.
 
 He was also interested in political philosohpy and ancient myths, and this also we can find in the wordlists. 
 

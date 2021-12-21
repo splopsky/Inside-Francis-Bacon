@@ -64,7 +64,7 @@ I have attained three .txt files of Bacon's books through [Project Gutenberg]([F
   
   * Eliminating useless words
   
-  * Plotting the :real: frequent words
+  * Plotting the 'real' frequent words
   
   And this is about it!
 
@@ -129,7 +129,7 @@ The Frequent Words in each book were respectively:
 
 
 
-Through the output of words, we can **conclude** that Bacon was a true *seeker* for :knowledge:; (FYI: '아는 것이 힘이다'의 주인이 바로 프랜시스 베이컨) 
+Through the output of words, we can **conclude** that Bacon was a true *seeker* for knowledge; (FYI: '아는 것이 힘이다'의 주인이 바로 프랜시스 베이컨) 
 
 And from the graph right above(Frequent Words - All Together), we can see that 'Aristotle' is in the list as well. 
 

@@ -1,6 +1,6 @@
 # ✍️ Inside Francis Bacon 🥓
 
-<hr>
+
 
 ### 🗨️... Seeing Through His Words
 
